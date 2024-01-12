@@ -403,52 +403,52 @@ void Start_the_Game() {
 																																							printf("\nYour character is Bilawal Bhutto!\n");
 																																							printf("\ntum to aik kanputli (statue) ho\ntumhari doren to PF hilaa raha hai");
 																																					}
-																																				default:
+																																				default://bilawal bhutto Q16
 																																					break;
 																																			}
-																																		default:
+																																		default: // bilawal bhutto Q15
 																																			break;
 																																	}
-																																default:
+																																default: // bilawal bhutto Q14
 																																	break;
 																															}
-																														default:
+																														default: // bilawal bhutto Q13
 																															break;
 																													}
-																												default:
+																												default: // bilawal bhutto Q12
 																													break;
 																											}
-																										default:
+																										default: // bilawal bhutto Q11
 																											break;
 																									}
-																								default:
+																								default: // bilawal bhutto Q10
 																									break;
 																							}
-																						default:
+																						default: // bilawal bhutto Q9
 																							break;
 																					}
-																				default:
+																				default: // bilawal bhutto Q8
 																					break;
 																			}
-																		default:
+																		default: // bilawal bhutto Q7
 																			break;
 																	}
-																default:
+																default: // bilawal bhutto Q6
 																	break;
 															}
-														default:
+														default: // bilawal bhutto Q5
 															break;
 													}
-													default:
+													default: // bilawal bhutto Q4
 														break;
 												}
-											default:
+											default: // bilawal bhutto Q3
 												break;
 										}
-										default:
+										default:// bilawal bhutto Q2
 											break;
-									}		
-									break;
+									}	
+									break; // bilawal bhutto Q1
 			            }
 		                default:
 		                	break;
